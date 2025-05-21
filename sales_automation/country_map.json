@@ -1,0 +1,1391 @@
+{
+  "result": {
+    "22": {
+      "ID": 475,
+      "ENTITY_ID": "CRM_DEAL",
+      "FIELD_NAME": "UF_CRM_1737004960",
+      "USER_TYPE_ID": "enumeration",
+      "XML_ID": "",
+      "SORT": 100,
+      "MULTIPLE": "N",
+      "MANDATORY": "N",
+      "SHOW_FILTER": "E",
+      "SHOW_IN_LIST": "Y",
+      "EDIT_IN_LIST": "Y",
+      "IS_SEARCHABLE": "N",
+      "SETTINGS": {
+        "DISPLAY": "LIST",
+        "LIST_HEIGHT": 5,
+        "CAPTION_NO_VALUE": "",
+        "SHOW_NO_VALUE": "Y"
+      },
+"LIST": [
+  {
+    "ID": "743",
+    "SORT": "0",
+    "VALUE": "Afghanistan",
+    "DEF": "N",
+    "XML_ID": "v1"
+  },
+  {
+    "ID": "745",
+    "SORT": "100",
+    "VALUE": "Albania",
+    "DEF": "N",
+    "XML_ID": "v2"
+  },
+  {
+    "ID": "747",
+    "SORT": "200",
+    "VALUE": "Algeria",
+    "DEF": "N",
+    "XML_ID": "v3"
+  },
+  {
+    "ID": "749",
+    "SORT": "300",
+    "VALUE": "Andorra",
+    "DEF": "N",
+    "XML_ID": "v4"
+  },
+  {
+    "ID": "751",
+    "SORT": "400",
+    "VALUE": "Angola",
+    "DEF": "N",
+    "XML_ID": "v5"
+  },
+  {
+    "ID": "753",
+    "SORT": "500",
+    "VALUE": "Antigua and Barbuda",
+    "DEF": "N",
+    "XML_ID": "v6"
+  },
+  {
+    "ID": "755",
+    "SORT": "600",
+    "VALUE": "Argentina",
+    "DEF": "N",
+    "XML_ID": "v7"
+  },
+  {
+    "ID": "757",
+    "SORT": "700",
+    "VALUE": "Armenia",
+    "DEF": "N",
+    "XML_ID": "v8"
+  },
+  {
+    "ID": "759",
+    "SORT": "800",
+    "VALUE": "Australia",
+    "DEF": "N",
+    "XML_ID": "v9"
+  },
+  {
+    "ID": "761",
+    "SORT": "900",
+    "VALUE": "Austria",
+    "DEF": "N",
+    "XML_ID": "v10"
+  },
+  {
+    "ID": "763",
+    "SORT": "1000",
+    "VALUE": "Azerbaijan",
+    "DEF": "N",
+    "XML_ID": "v11"
+  },
+  {
+    "ID": "765",
+    "SORT": "1100",
+    "VALUE": "Bahamas",
+    "DEF": "N",
+    "XML_ID": "v12"
+  },
+  {
+    "ID": "767",
+    "SORT": "1200",
+    "VALUE": "Bahrain",
+    "DEF": "N",
+    "XML_ID": "v13"
+  },
+  {
+    "ID": "769",
+    "SORT": "1300",
+    "VALUE": "Bangladesh",
+    "DEF": "N",
+    "XML_ID": "v14"
+  },
+  {
+    "ID": "771",
+    "SORT": "1400",
+    "VALUE": "Barbados",
+    "DEF": "N",
+    "XML_ID": "v15"
+  },
+  {
+    "ID": "773",
+    "SORT": "1500",
+    "VALUE": "Belarus",
+    "DEF": "N",
+    "XML_ID": "v16"
+  },
+  {
+    "ID": "775",
+    "SORT": "1600",
+    "VALUE": "Belgium",
+    "DEF": "N",
+    "XML_ID": "v17"
+  },
+  {
+    "ID": "777",
+    "SORT": "1700",
+    "VALUE": "Belize",
+    "DEF": "N",
+    "XML_ID": "v18"
+  },
+  {
+    "ID": "779",
+    "SORT": "1800",
+    "VALUE": "Benin",
+    "DEF": "N",
+    "XML_ID": "v19"
+  },
+  {
+    "ID": "781",
+    "SORT": "1900",
+    "VALUE": "Bhutan",
+    "DEF": "N",
+    "XML_ID": "v20"
+  },
+  {
+    "ID": "783",
+    "SORT": "2000",
+    "VALUE": "Bolivia",
+    "DEF": "N",
+    "XML_ID": "v21"
+  },
+  {
+    "ID": "785",
+    "SORT": "2100",
+    "VALUE": "Bosnia and Herzegovina",
+    "DEF": "N",
+    "XML_ID": "v22"
+  },
+  {
+    "ID": "787",
+    "SORT": "2200",
+    "VALUE": "Botswana",
+    "DEF": "N",
+    "XML_ID": "v23"
+  },
+  {
+    "ID": "789",
+    "SORT": "2300",
+    "VALUE": "Brazil",
+    "DEF": "N",
+    "XML_ID": "v24"
+  },
+  {
+    "ID": "791",
+    "SORT": "2400",
+    "VALUE": "Brunei",
+    "DEF": "N",
+    "XML_ID": "v25"
+  },
+  {
+    "ID": "793",
+    "SORT": "2500",
+    "VALUE": "Bulgaria",
+    "DEF": "N",
+    "XML_ID": "v26"
+  },
+  {
+    "ID": "795",
+    "SORT": "2600",
+    "VALUE": "Burkina Faso",
+    "DEF": "N",
+    "XML_ID": "v27"
+  },
+  {
+    "ID": "797",
+    "SORT": "2700",
+    "VALUE": "Burundi",
+    "DEF": "N",
+    "XML_ID": "v28"
+  },
+  {
+    "ID": "799",
+    "SORT": "2800",
+    "VALUE": "Cabo Verde",
+    "DEF": "N",
+    "XML_ID": "v29"
+  },
+  {
+    "ID": "801",
+    "SORT": "2900",
+    "VALUE": "Cambodia",
+    "DEF": "N",
+    "XML_ID": "v30"
+  },
+  {
+    "ID": "803",
+    "SORT": "3000",
+    "VALUE": "Cameroon",
+    "DEF": "N",
+    "XML_ID": "v31"
+  },
+  {
+    "ID": "805",
+    "SORT": "3100",
+    "VALUE": "Canada",
+    "DEF": "N",
+    "XML_ID": "v32"
+  },
+  {
+    "ID": "807",
+    "SORT": "3200",
+    "VALUE": "Central African Republic",
+    "DEF": "N",
+    "XML_ID": "v33"
+  },
+  {
+    "ID": "809",
+    "SORT": "3300",
+    "VALUE": "Chad",
+    "DEF": "N",
+    "XML_ID": "v34"
+  },
+  {
+    "ID": "811",
+    "SORT": "3400",
+    "VALUE": "Chile",
+    "DEF": "N",
+    "XML_ID": "v35"
+  },
+  {
+    "ID": "813",
+    "SORT": "3500",
+    "VALUE": "China",
+    "DEF": "N",
+    "XML_ID": "v36"
+  },
+  {
+    "ID": "815",
+    "SORT": "3600",
+    "VALUE": "Colombia",
+    "DEF": "N",
+    "XML_ID": "v37"
+  },
+  {
+    "ID": "817",
+    "SORT": "3700",
+    "VALUE": "Comoros",
+    "DEF": "N",
+    "XML_ID": "v38"
+  },
+  {
+    "ID": "819",
+    "SORT": "3800",
+    "VALUE": "Congo (Congo-Brazzaville)",
+    "DEF": "N",
+    "XML_ID": "v39"
+  },
+  {
+    "ID": "821",
+    "SORT": "3900",
+    "VALUE": "Costa Rica",
+    "DEF": "N",
+    "XML_ID": "v40"
+  },
+  {
+    "ID": "823",
+    "SORT": "4000",
+    "VALUE": "Croatia",
+    "DEF": "N",
+    "XML_ID": "v41"
+  },
+  {
+    "ID": "825",
+    "SORT": "4100",
+    "VALUE": "Cuba",
+    "DEF": "N",
+    "XML_ID": "v42"
+  },
+  {
+    "ID": "827",
+    "SORT": "4200",
+    "VALUE": "Cyprus",
+    "DEF": "N",
+    "XML_ID": "v43"
+  },
+  {
+    "ID": "829",
+    "SORT": "4300",
+    "VALUE": "Czech Republic (Czechia)",
+    "DEF": "N",
+    "XML_ID": "v44"
+  },
+  {
+    "ID": "831",
+    "SORT": "4400",
+    "VALUE": "DR Congo (Congo-Kinshasa)",
+    "DEF": "N",
+    "XML_ID": "v45"
+  },
+  {
+    "ID": "833",
+    "SORT": "4500",
+    "VALUE": "Denmark",
+    "DEF": "N",
+    "XML_ID": "v46"
+  },
+  {
+    "ID": "835",
+    "SORT": "4600",
+    "VALUE": "Djibouti",
+    "DEF": "N",
+    "XML_ID": "v47"
+  },
+  {
+    "ID": "837",
+    "SORT": "4700",
+    "VALUE": "Dominica",
+    "DEF": "N",
+    "XML_ID": "v48"
+  },
+  {
+    "ID": "839",
+    "SORT": "4800",
+    "VALUE": "Dominican Republic",
+    "DEF": "N",
+    "XML_ID": "v49"
+  },
+  {
+    "ID": "841",
+    "SORT": "4900",
+    "VALUE": "Ecuador",
+    "DEF": "N",
+    "XML_ID": "v50"
+  },
+  {
+    "ID": "843",
+    "SORT": "5000",
+    "VALUE": "Egypt",
+    "DEF": "N",
+    "XML_ID": "v51"
+  },
+  {
+    "ID": "845",
+    "SORT": "5100",
+    "VALUE": "El Salvador",
+    "DEF": "N",
+    "XML_ID": "v52"
+  },
+  {
+    "ID": "847",
+    "SORT": "5200",
+    "VALUE": "Equatorial Guinea",
+    "DEF": "N",
+    "XML_ID": "v53"
+  },
+  {
+    "ID": "849",
+    "SORT": "5300",
+    "VALUE": "Eritrea",
+    "DEF": "N",
+    "XML_ID": "v54"
+  },
+  {
+    "ID": "851",
+    "SORT": "5400",
+    "VALUE": "Estonia",
+    "DEF": "N",
+    "XML_ID": "v55"
+  },
+  {
+    "ID": "853",
+    "SORT": "5500",
+    "VALUE": "Eswatini",
+    "DEF": "N",
+    "XML_ID": "v56"
+  },
+  {
+    "ID": "855",
+    "SORT": "5600",
+    "VALUE": "Ethiopia",
+    "DEF": "N",
+    "XML_ID": "v57"
+  },
+  {
+    "ID": "857",
+    "SORT": "5700",
+    "VALUE": "Fiji",
+    "DEF": "N",
+    "XML_ID": "v58"
+  },
+  {
+    "ID": "859",
+    "SORT": "5800",
+    "VALUE": "Finland",
+    "DEF": "N",
+    "XML_ID": "v59"
+  },
+  {
+    "ID": "861",
+    "SORT": "5900",
+    "VALUE": "France",
+    "DEF": "N",
+    "XML_ID": "v60"
+  },
+  {
+    "ID": "863",
+    "SORT": "6000",
+    "VALUE": "Gabon",
+    "DEF": "N",
+    "XML_ID": "v61"
+  },
+  {
+    "ID": "865",
+    "SORT": "6100",
+    "VALUE": "Gambia",
+    "DEF": "N",
+    "XML_ID": "v62"
+  },
+  {
+    "ID": "867",
+    "SORT": "6200",
+    "VALUE": "Georgia",
+    "DEF": "N",
+    "XML_ID": "v63"
+  },
+  {
+    "ID": "869",
+    "SORT": "6300",
+    "VALUE": "Germany",
+    "DEF": "N",
+    "XML_ID": "v64"
+  },
+  {
+    "ID": "871",
+    "SORT": "6400",
+    "VALUE": "Ghana",
+    "DEF": "N",
+    "XML_ID": "v65"
+  },
+  {
+    "ID": "873",
+    "SORT": "6500",
+    "VALUE": "Greece",
+    "DEF": "N",
+    "XML_ID": "v66"
+  },
+  {
+    "ID": "875",
+    "SORT": "6600",
+    "VALUE": "Grenada",
+    "DEF": "N",
+    "XML_ID": "v67"
+  },
+  {
+    "ID": "877",
+    "SORT": "6700",
+    "VALUE": "Guatemala",
+    "DEF": "N",
+    "XML_ID": "v68"
+  },
+  {
+    "ID": "879",
+    "SORT": "6800",
+    "VALUE": "Guinea",
+    "DEF": "N",
+    "XML_ID": "v69"
+  },
+  {
+    "ID": "881",
+    "SORT": "6900",
+    "VALUE": "Guinea-Bissau",
+    "DEF": "N",
+    "XML_ID": "v70"
+  },
+  {
+    "ID": "883",
+    "SORT": "7000",
+    "VALUE": "Guyana",
+    "DEF": "N",
+    "XML_ID": "v71"
+  },
+  {
+    "ID": "885",
+    "SORT": "7100",
+    "VALUE": "Haiti",
+    "DEF": "N",
+    "XML_ID": "v72"
+  },
+  {
+    "ID": "887",
+    "SORT": "7200",
+    "VALUE": "Honduras",
+    "DEF": "N",
+    "XML_ID": "v73"
+  },
+  {
+    "ID": "889",
+    "SORT": "7300",
+    "VALUE": "Hungary",
+    "DEF": "N",
+    "XML_ID": "v74"
+  },
+  {
+    "ID": "891",
+    "SORT": "7400",
+    "VALUE": "Iceland",
+    "DEF": "N",
+    "XML_ID": "v75"
+  },
+  {
+    "ID": "893",
+    "SORT": "7500",
+    "VALUE": "India",
+    "DEF": "N",
+    "XML_ID": "v76"
+  },
+  {
+    "ID": "895",
+    "SORT": "7600",
+    "VALUE": "Indonesia",
+    "DEF": "N",
+    "XML_ID": "v77"
+  },
+  {
+    "ID": "897",
+    "SORT": "7700",
+    "VALUE": "Iran",
+    "DEF": "N",
+    "XML_ID": "v78"
+  },
+  {
+    "ID": "899",
+    "SORT": "7800",
+    "VALUE": "Iraq",
+    "DEF": "N",
+    "XML_ID": "v79"
+  },
+  {
+    "ID": "901",
+    "SORT": "7900",
+    "VALUE": "Ireland",
+    "DEF": "N",
+    "XML_ID": "v80"
+  },
+  {
+    "ID": "903",
+    "SORT": "8000",
+    "VALUE": "Israel",
+    "DEF": "N",
+    "XML_ID": "v81"
+  },
+  {
+    "ID": "905",
+    "SORT": "8100",
+    "VALUE": "Italy",
+    "DEF": "N",
+    "XML_ID": "v82"
+  },
+  {
+    "ID": "907",
+    "SORT": "8200",
+    "VALUE": "Ivory Coast (Côte d\u0027Ivoire)",
+    "DEF": "N",
+    "XML_ID": "v83"
+  },
+  {
+    "ID": "909",
+    "SORT": "8300",
+    "VALUE": "Jamaica",
+    "DEF": "N",
+    "XML_ID": "v84"
+  },
+  {
+    "ID": "911",
+    "SORT": "8400",
+    "VALUE": "Japan",
+    "DEF": "N",
+    "XML_ID": "v85"
+  },
+  {
+    "ID": "913",
+    "SORT": "8500",
+    "VALUE": "Jordan",
+    "DEF": "N",
+    "XML_ID": "v86"
+  },
+  {
+    "ID": "915",
+    "SORT": "8600",
+    "VALUE": "Kazakhstan",
+    "DEF": "N",
+    "XML_ID": "v87"
+  },
+  {
+    "ID": "917",
+    "SORT": "8700",
+    "VALUE": "Kenya",
+    "DEF": "N",
+    "XML_ID": "v88"
+  },
+  {
+    "ID": "919",
+    "SORT": "8800",
+    "VALUE": "Kiribati",
+    "DEF": "N",
+    "XML_ID": "v89"
+  },
+  {
+    "ID": "921",
+    "SORT": "8900",
+    "VALUE": "Korea, North",
+    "DEF": "N",
+    "XML_ID": "v90"
+  },
+  {
+    "ID": "923",
+    "SORT": "9000",
+    "VALUE": "Korea, South",
+    "DEF": "N",
+    "XML_ID": "v91"
+  },
+  {
+    "ID": "925",
+    "SORT": "9100",
+    "VALUE": "Kuwait",
+    "DEF": "N",
+    "XML_ID": "v92"
+  },
+  {
+    "ID": "927",
+    "SORT": "9200",
+    "VALUE": "Kyrgyzstan",
+    "DEF": "N",
+    "XML_ID": "v93"
+  },
+  {
+    "ID": "929",
+    "SORT": "9300",
+    "VALUE": "Laos",
+    "DEF": "N",
+    "XML_ID": "v94"
+  },
+  {
+    "ID": "931",
+    "SORT": "9400",
+    "VALUE": "Latvia",
+    "DEF": "N",
+    "XML_ID": "v95"
+  },
+  {
+    "ID": "933",
+    "SORT": "9500",
+    "VALUE": "Lebanon",
+    "DEF": "N",
+    "XML_ID": "v96"
+  },
+  {
+    "ID": "935",
+    "SORT": "9600",
+    "VALUE": "Lesotho",
+    "DEF": "N",
+    "XML_ID": "v97"
+  },
+  {
+    "ID": "937",
+    "SORT": "9700",
+    "VALUE": "Liberia",
+    "DEF": "N",
+    "XML_ID": "v98"
+  },
+  {
+    "ID": "939",
+    "SORT": "9800",
+    "VALUE": "Libya",
+    "DEF": "N",
+    "XML_ID": "v99"
+  },
+  {
+    "ID": "941",
+    "SORT": "9900",
+    "VALUE": "Liechtenstein",
+    "DEF": "N",
+    "XML_ID": "v100"
+  },
+  {
+    "ID": "943",
+    "SORT": "10000",
+    "VALUE": "Lithuania",
+    "DEF": "N",
+    "XML_ID": "v101"
+  },
+  {
+    "ID": "945",
+    "SORT": "10100",
+    "VALUE": "Luxembourg",
+    "DEF": "N",
+    "XML_ID": "v102"
+  },
+  {
+    "ID": "947",
+    "SORT": "10200",
+    "VALUE": "Madagascar",
+    "DEF": "N",
+    "XML_ID": "v103"
+  },
+  {
+    "ID": "949",
+    "SORT": "10300",
+    "VALUE": "Malawi",
+    "DEF": "N",
+    "XML_ID": "v104"
+  },
+  {
+    "ID": "951",
+    "SORT": "10400",
+    "VALUE": "Malaysia",
+    "DEF": "N",
+    "XML_ID": "v105"
+  },
+  {
+    "ID": "953",
+    "SORT": "10500",
+    "VALUE": "Maldives",
+    "DEF": "N",
+    "XML_ID": "v106"
+  },
+  {
+    "ID": "955",
+    "SORT": "10600",
+    "VALUE": "Mali",
+    "DEF": "N",
+    "XML_ID": "v107"
+  },
+  {
+    "ID": "957",
+    "SORT": "10700",
+    "VALUE": "Malta",
+    "DEF": "N",
+    "XML_ID": "v108"
+  },
+  {
+    "ID": "959",
+    "SORT": "10800",
+    "VALUE": "Marshall Islands",
+    "DEF": "N",
+    "XML_ID": "v109"
+  },
+  {
+    "ID": "961",
+    "SORT": "10900",
+    "VALUE": "Mauritania",
+    "DEF": "N",
+    "XML_ID": "v110"
+  },
+  {
+    "ID": "963",
+    "SORT": "11000",
+    "VALUE": "Mauritius",
+    "DEF": "N",
+    "XML_ID": "v111"
+  },
+  {
+    "ID": "965",
+    "SORT": "11100",
+    "VALUE": "Mexico",
+    "DEF": "N",
+    "XML_ID": "v112"
+  },
+  {
+    "ID": "967",
+    "SORT": "11200",
+    "VALUE": "Micronesia",
+    "DEF": "N",
+    "XML_ID": "v113"
+  },
+  {
+    "ID": "969",
+    "SORT": "11300",
+    "VALUE": "Moldova",
+    "DEF": "N",
+    "XML_ID": "v114"
+  },
+  {
+    "ID": "971",
+    "SORT": "11400",
+    "VALUE": "Monaco",
+    "DEF": "N",
+    "XML_ID": "v115"
+  },
+  {
+    "ID": "973",
+    "SORT": "11500",
+    "VALUE": "Mongolia",
+    "DEF": "N",
+    "XML_ID": "v116"
+  },
+  {
+    "ID": "975",
+    "SORT": "11600",
+    "VALUE": "Montenegro",
+    "DEF": "N",
+    "XML_ID": "v117"
+  },
+  {
+    "ID": "977",
+    "SORT": "11700",
+    "VALUE": "Morocco",
+    "DEF": "N",
+    "XML_ID": "v118"
+  },
+  {
+    "ID": "979",
+    "SORT": "11800",
+    "VALUE": "Mozambique",
+    "DEF": "N",
+    "XML_ID": "v119"
+  },
+  {
+    "ID": "981",
+    "SORT": "11900",
+    "VALUE": "Myanmar (Burma)",
+    "DEF": "N",
+    "XML_ID": "v120"
+  },
+  {
+    "ID": "983",
+    "SORT": "12000",
+    "VALUE": "Namibia",
+    "DEF": "N",
+    "XML_ID": "v121"
+  },
+  {
+    "ID": "985",
+    "SORT": "12100",
+    "VALUE": "Nauru",
+    "DEF": "N",
+    "XML_ID": "v122"
+  },
+  {
+    "ID": "987",
+    "SORT": "12200",
+    "VALUE": "Nepal",
+    "DEF": "N",
+    "XML_ID": "v123"
+  },
+  {
+    "ID": "989",
+    "SORT": "12300",
+    "VALUE": "Netherlands",
+    "DEF": "N",
+    "XML_ID": "v124"
+  },
+  {
+    "ID": "991",
+    "SORT": "12400",
+    "VALUE": "New Zealand",
+    "DEF": "N",
+    "XML_ID": "v125"
+  },
+  {
+    "ID": "993",
+    "SORT": "12500",
+    "VALUE": "Nicaragua",
+    "DEF": "N",
+    "XML_ID": "v126"
+  },
+  {
+    "ID": "995",
+    "SORT": "12600",
+    "VALUE": "Niger",
+    "DEF": "N",
+    "XML_ID": "v127"
+  },
+  {
+    "ID": "997",
+    "SORT": "12700",
+    "VALUE": "Nigeria",
+    "DEF": "N",
+    "XML_ID": "v128"
+  },
+  {
+    "ID": "999",
+    "SORT": "12800",
+    "VALUE": "North Macedonia",
+    "DEF": "N",
+    "XML_ID": "v129"
+  },
+  {
+    "ID": "1001",
+    "SORT": "12900",
+    "VALUE": "Norway",
+    "DEF": "N",
+    "XML_ID": "v130"
+  },
+  {
+    "ID": "1003",
+    "SORT": "13000",
+    "VALUE": "Oman",
+    "DEF": "N",
+    "XML_ID": "v131"
+  },
+  {
+    "ID": "1005",
+    "SORT": "13100",
+    "VALUE": "Pakistan",
+    "DEF": "N",
+    "XML_ID": "v132"
+  },
+  {
+    "ID": "1007",
+    "SORT": "13200",
+    "VALUE": "Palau",
+    "DEF": "N",
+    "XML_ID": "v133"
+  },
+  {
+    "ID": "1009",
+    "SORT": "13300",
+    "VALUE": "Panama",
+    "DEF": "N",
+    "XML_ID": "v134"
+  },
+  {
+    "ID": "1011",
+    "SORT": "13400",
+    "VALUE": "Papua New Guinea",
+    "DEF": "N",
+    "XML_ID": "v135"
+  },
+  {
+    "ID": "1013",
+    "SORT": "13500",
+    "VALUE": "Paraguay",
+    "DEF": "N",
+    "XML_ID": "v136"
+  },
+  {
+    "ID": "1015",
+    "SORT": "13600",
+    "VALUE": "Peru",
+    "DEF": "N",
+    "XML_ID": "v137"
+  },
+  {
+    "ID": "1017",
+    "SORT": "13700",
+    "VALUE": "Philippines",
+    "DEF": "N",
+    "XML_ID": "v138"
+  },
+  {
+    "ID": "1019",
+    "SORT": "13800",
+    "VALUE": "Poland",
+    "DEF": "N",
+    "XML_ID": "v139"
+  },
+  {
+    "ID": "1021",
+    "SORT": "13900",
+    "VALUE": "Portugal",
+    "DEF": "N",
+    "XML_ID": "v140"
+  },
+  {
+    "ID": "1023",
+    "SORT": "14000",
+    "VALUE": "Qatar",
+    "DEF": "N",
+    "XML_ID": "v141"
+  },
+  {
+    "ID": "1025",
+    "SORT": "14100",
+    "VALUE": "Romania",
+    "DEF": "N",
+    "XML_ID": "v142"
+  },
+  {
+    "ID": "1027",
+    "SORT": "14200",
+    "VALUE": "Russia",
+    "DEF": "N",
+    "XML_ID": "v143"
+  },
+  {
+    "ID": "1029",
+    "SORT": "14300",
+    "VALUE": "Rwanda",
+    "DEF": "N",
+    "XML_ID": "v144"
+  },
+  {
+    "ID": "1031",
+    "SORT": "14400",
+    "VALUE": "Saint Kitts and Nevis",
+    "DEF": "N",
+    "XML_ID": "v145"
+  },
+  {
+    "ID": "1033",
+    "SORT": "14500",
+    "VALUE": "Saint Lucia",
+    "DEF": "N",
+    "XML_ID": "v146"
+  },
+  {
+    "ID": "1035",
+    "SORT": "14600",
+    "VALUE": "Saint Vincent and the Grenadines",
+    "DEF": "N",
+    "XML_ID": "v147"
+  },
+  {
+    "ID": "1037",
+    "SORT": "14700",
+    "VALUE": "Samoa",
+    "DEF": "N",
+    "XML_ID": "v148"
+  },
+  {
+    "ID": "1039",
+    "SORT": "14800",
+    "VALUE": "San Marino",
+    "DEF": "N",
+    "XML_ID": "v149"
+  },
+  {
+    "ID": "1041",
+    "SORT": "14900",
+    "VALUE": "Sao Tome and Principe",
+    "DEF": "N",
+    "XML_ID": "v150"
+  },
+  {
+    "ID": "1043",
+    "SORT": "15000",
+    "VALUE": "Saudi Arabia",
+    "DEF": "N",
+    "XML_ID": "v151"
+  },
+  {
+    "ID": "1045",
+    "SORT": "15100",
+    "VALUE": "Senegal",
+    "DEF": "N",
+    "XML_ID": "v152"
+  },
+  {
+    "ID": "1047",
+    "SORT": "15200",
+    "VALUE": "Serbia",
+    "DEF": "N",
+    "XML_ID": "v153"
+  },
+  {
+    "ID": "1049",
+    "SORT": "15300",
+    "VALUE": "Seychelles",
+    "DEF": "N",
+    "XML_ID": "v154"
+  },
+  {
+    "ID": "1051",
+    "SORT": "15400",
+    "VALUE": "Sierra Leone",
+    "DEF": "N",
+    "XML_ID": "v155"
+  },
+  {
+    "ID": "1053",
+    "SORT": "15500",
+    "VALUE": "Singapore",
+    "DEF": "N",
+    "XML_ID": "v156"
+  },
+  {
+    "ID": "1055",
+    "SORT": "15600",
+    "VALUE": "Slovakia",
+    "DEF": "N",
+    "XML_ID": "v157"
+  },
+  {
+    "ID": "1057",
+    "SORT": "15700",
+    "VALUE": "Slovenia",
+    "DEF": "N",
+    "XML_ID": "v158"
+  },
+  {
+    "ID": "1059",
+    "SORT": "15800",
+    "VALUE": "Solomon Islands",
+    "DEF": "N",
+    "XML_ID": "v159"
+  },
+  {
+    "ID": "1061",
+    "SORT": "15900",
+    "VALUE": "Somalia",
+    "DEF": "N",
+    "XML_ID": "v160"
+  },
+  {
+    "ID": "1063",
+    "SORT": "16000",
+    "VALUE": "South Africa",
+    "DEF": "N",
+    "XML_ID": "v161"
+  },
+  {
+    "ID": "1065",
+    "SORT": "16100",
+    "VALUE": "South Sudan",
+    "DEF": "N",
+    "XML_ID": "v162"
+  },
+  {
+    "ID": "1067",
+    "SORT": "16200",
+    "VALUE": "Spain",
+    "DEF": "N",
+    "XML_ID": "v163"
+  },
+  {
+    "ID": "1069",
+    "SORT": "16300",
+    "VALUE": "Sri Lanka",
+    "DEF": "N",
+    "XML_ID": "v164"
+  },
+  {
+    "ID": "1071",
+    "SORT": "16400",
+    "VALUE": "Sudan",
+    "DEF": "N",
+    "XML_ID": "v165"
+  },
+  {
+    "ID": "1073",
+    "SORT": "16500",
+    "VALUE": "Suriname",
+    "DEF": "N",
+    "XML_ID": "v166"
+  },
+  {
+    "ID": "1075",
+    "SORT": "16600",
+    "VALUE": "Sweden",
+    "DEF": "N",
+    "XML_ID": "v167"
+  },
+  {
+    "ID": "1077",
+    "SORT": "16700",
+    "VALUE": "Switzerland",
+    "DEF": "N",
+    "XML_ID": "v168"
+  },
+  {
+    "ID": "1079",
+    "SORT": "16800",
+    "VALUE": "Syria",
+    "DEF": "N",
+    "XML_ID": "v169"
+  },
+  {
+    "ID": "1081",
+    "SORT": "16900",
+    "VALUE": "Taiwan",
+    "DEF": "N",
+    "XML_ID": "v170"
+  },
+  {
+    "ID": "1083",
+    "SORT": "17000",
+    "VALUE": "Tajikistan",
+    "DEF": "N",
+    "XML_ID": "v171"
+  },
+  {
+    "ID": "1085",
+    "SORT": "17100",
+    "VALUE": "Tanzania",
+    "DEF": "N",
+    "XML_ID": "v172"
+  },
+  {
+    "ID": "1087",
+    "SORT": "17200",
+    "VALUE": "Thailand",
+    "DEF": "N",
+    "XML_ID": "v173"
+  },
+  {
+    "ID": "1089",
+    "SORT": "17300",
+    "VALUE": "Timor-Leste (East Timor)",
+    "DEF": "N",
+    "XML_ID": "v174"
+  },
+  {
+    "ID": "1091",
+    "SORT": "17400",
+    "VALUE": "Togo",
+    "DEF": "N",
+    "XML_ID": "v175"
+  },
+  {
+    "ID": "1093",
+    "SORT": "17500",
+    "VALUE": "Tonga",
+    "DEF": "N",
+    "XML_ID": "v176"
+  },
+  {
+    "ID": "1095",
+    "SORT": "17600",
+    "VALUE": "Trinidad and Tobago",
+    "DEF": "N",
+    "XML_ID": "v177"
+  },
+  {
+    "ID": "1097",
+    "SORT": "17700",
+    "VALUE": "Tunisia",
+    "DEF": "N",
+    "XML_ID": "v178"
+  },
+  {
+    "ID": "1099",
+    "SORT": "17800",
+    "VALUE": "Turkey",
+    "DEF": "N",
+    "XML_ID": "v179"
+  },
+  {
+    "ID": "1101",
+    "SORT": "17900",
+    "VALUE": "Turkmenistan",
+    "DEF": "N",
+    "XML_ID": "v180"
+  },
+  {
+    "ID": "1103",
+    "SORT": "18000",
+    "VALUE": "Tuvalu",
+    "DEF": "N",
+    "XML_ID": "v181"
+  },
+  {
+    "ID": "1105",
+    "SORT": "18100",
+    "VALUE": "Uganda",
+    "DEF": "N",
+    "XML_ID": "v182"
+  },
+  {
+    "ID": "1107",
+    "SORT": "18200",
+    "VALUE": "Ukraine",
+    "DEF": "N",
+    "XML_ID": "v183"
+  },
+  {
+    "ID": "1109",
+    "SORT": "18300",
+    "VALUE": "United Arab Emirates",
+    "DEF": "N",
+    "XML_ID": "v184"
+  },
+  {
+    "ID": "1111",
+    "SORT": "18400",
+    "VALUE": "United Kingdom",
+    "DEF": "N",
+    "XML_ID": "v185"
+  },
+  {
+    "ID": "1113",
+    "SORT": "18500",
+    "VALUE": "United States",
+    "DEF": "N",
+    "XML_ID": "v186"
+  },
+  {
+    "ID": "1115",
+    "SORT": "18600",
+    "VALUE": "Uruguay",
+    "DEF": "N",
+    "XML_ID": "v187"
+  },
+  {
+    "ID": "1117",
+    "SORT": "18700",
+    "VALUE": "Uzbekistan",
+    "DEF": "N",
+    "XML_ID": "v188"
+  },
+  {
+    "ID": "1119",
+    "SORT": "18800",
+    "VALUE": "Vanuatu",
+    "DEF": "N",
+    "XML_ID": "v189"
+  },
+  {
+    "ID": "1121",
+    "SORT": "18900",
+    "VALUE": "Vatican City (Holy See)",
+    "DEF": "N",
+    "XML_ID": "v190"
+  },
+  {
+    "ID": "1123",
+    "SORT": "19000",
+    "VALUE": "Venezuela",
+    "DEF": "N",
+    "XML_ID": "v191"
+  },
+  {
+    "ID": "1125",
+    "SORT": "19100",
+    "VALUE": "Vietnam",
+    "DEF": "N",
+    "XML_ID": "v192"
+  },
+  {
+    "ID": "1127",
+    "SORT": "19200",
+    "VALUE": "Yemen",
+    "DEF": "N",
+    "XML_ID": "v193"
+  },
+  {
+    "ID": "1129",
+    "SORT": "19300",
+    "VALUE": "Zambia",
+    "DEF": "N",
+    "XML_ID": "v194"
+  },
+  {
+    "ID": "1131",
+    "SORT": "19400",
+    "VALUE": "Zimbabwe",
+    "DEF": "N",
+    "XML_ID": "v195"
+  }
+    ]
+  }
+}
+}

@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Django specific
+*.log
+*.pot
+*.pyc
+db.sqlite3
+media/
+staticfiles/
+
+# If you're using Django's default static root
+/static/
+
+# If you use local settings or secrets
+local_settings.py
+.env
+.env.*
+
+# Pipenv
+Pipfile.lock
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pytype
+.pytype/
+
+# Coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+
+# Testing
+.pytest_cache/
+.coverage
+nosetests.xml
+coverage.xml
+test-results/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Linux
+*~ 
+.cache
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
